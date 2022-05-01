@@ -8,7 +8,7 @@
 
 The vision of project is to create the best platform possible for learning any topic as well as finding & building novel ideas together.
 
-Please read [our roadmap](https://docs.learn-anything.xyz/roadmap) where we outline the problems we want to solve with building this platform and how we plan to solve them.
+Please read [our roadmap](https://learnany.notion.site/Roadmap-85d3ecd04d4c419abd4626a874f5b0b4) where we outline the problems we want to solve with building this platform and how we plan to solve them.
 
 If you are interested in helping us out, please join our community on [Discord](https://discord.gg/bxtD8x6aNF) to learn & build this project together.
 
